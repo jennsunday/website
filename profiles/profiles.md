@@ -6,3 +6,9 @@ If you are a tutorial author and want to be featured on our website, please uplo
 Joey Bernhardt
 Twitter: @joeybernhardt
 Github: @joeybernhardt
+
+Jennifer Sunday
+McGill University
+Website link: http://jennsunday.weebly.com
+Twitter: @jennsunday
+Github: @jennsunday
